@@ -1,1 +1,1 @@
-Source Codes for RL-based Robotic Cognitive Control
+Source Codes of RL-based Robotic Cognitive Control
